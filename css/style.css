@@ -1,0 +1,65 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#title{
+    background-color: #569DAA;
+    padding: 10px 8% 0;
+}
+
+#title img{
+    width: 80%;
+}
+
+#title .row{
+    padding: 50px 0 10px;
+}
+
+.btn-dark:hover{
+    background-color: #569DAA;
+    color: #000;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+#title button{
+    margin-top: 50px;
+    margin-right: 10px;
+}
+.navbar-nav{
+    margin-right: 50px;
+}
+.nav-item{
+    padding-left: 40px ;
+}
+
+#feature{
+    text-align: center;
+    padding: 8% 8%;
+}
+#feature .ic{
+    font-size: 4rem;
+}
+
+#feature img{
+    width: 50%;
+}
+
+
+#info{
+    text-align: center;
+    padding: 8% 8%;
+    background-color: #569DAA;
+    text-align: center;
+    list-style-type: none;
+}
+
+#footer{
+    text-align: center;
+    background-color: #0b0b21;
+    color: #fff;
+    padding: 25px 0px;
+    min-height: 75px;
+}
